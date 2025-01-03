@@ -1,8 +1,9 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
-import Home from './Components/Home'
-import Content from './Components/Content'
 import Footer from './Components/Footer'
+import Content from './Components/Content'
+import Home from './Components/Home'
+import Navbar from './Components/Navbar'
+
 
 const App = () => {
   return (

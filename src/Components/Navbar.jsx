@@ -3,7 +3,7 @@ import logo from "../../src/assets/logo.svg";
 import right_img from "../../src/assets/Vector.png";
 import menu from '../../src/assets/menu_icon.png'
 
-const Navbar = () => {
+function Navbar() {
   return (
     <div>
       <div className="flex items-center p-4 justify-between">

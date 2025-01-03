@@ -5,7 +5,7 @@ import right_img from "../../src/assets/Vector.png";
 import social_icon from "../../src/assets/icons.svg";
 
 
-const Footer = () => {
+function Footer()   {
   return (
     <div>
     <div className='flex flex-row justify-between mt-28 md:mx-96'>
@@ -51,5 +51,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import down_img from '../../src/assets/Reimagined_Jump_to_Arrow.svg.svg'
 
 
-const Home = () => {
+function Home  () {
 
   const [visible, setVisible] = useState(true)
  

@@ -6,7 +6,7 @@ import content4_img from "../../src/assets/content4.png";
 import content5_img from "../../src/assets/content5.png";
 import content6_img from "../../src/assets/content6.png";
 
-const Content = () => {
+function Content(){
   return (
     <div className="lg:mx-80">
       <div className="ml-14 sm:ml-16 mt-10">
